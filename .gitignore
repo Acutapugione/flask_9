@@ -1,0 +1,7 @@
+/.venv
+/.vscode
+/__pycache__
+/base.sql
+/git_guide.html
+/instance
+/migrations
